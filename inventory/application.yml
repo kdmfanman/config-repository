@@ -2,4 +2,4 @@ spring:
   application:
     name: inventory
 config:
-  name: Jose
+  name: Don Eladio
